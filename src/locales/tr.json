@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "process": "Süreç",
+    "about": "Hakkımızda",
+    "testimonials": "Referanslar",
+    "contact": "İletişim",
+    "cta": "Teklif Al"
+  },
+  "hero": {
+    "title": "Tezinizi zamanında, güvenle tamamlayın",
+    "subtitle": "Tez, makale, kitap, rapor yazımı ve düzenleme süreçlerinizde uçtan uca danışmanlık sunuyoruz. Teslimatlarımız AI ve intihal testlerinden geçer.",
+    "button": "Ücretsiz Ön Değerlendirme",
+    "secondaryButton": "Hizmetleri Gör",
+    "highlights": [
+      "Tez, makale, kitap, rapor yazımı ve düzenleme",
+      "AI ve intihal testlerinden geçen teslimat",
+      "En uygun fiyat garantisi ile şeffaf teklif"
+    ],
+    "statValue": "100+",
+    "statLabel": "Tamamlanan akademik proje"
+  },
+  "guarantee": {
+    "short": "En uygun fiyat garantisi",
+    "statValue": "100+",
+    "statLabel": "Tamamlanan akademik proje",
+    "title": "En uygun fiyat garantisi",
+    "description": "Aynı kapsam ve kalite standardında daha uygun teklif bulursanız fiyatı eşitliyoruz. Kaliteden ödün vermeden bütçenize uygun çözüm sunuyoruz.",
+    "cta": "Ücretsiz Fiyat Teklifi Al"
+  },
+  "roadmap": {
+    "eyebrow": "Çalışma süreci",
+    "title": "Başvurudan teslimata net yol haritası",
+    "description": "Kaydırdıkça sürecin nasıl ilerlediğini görün; her adımda ne olacağını baştan bilin.",
+    "steps": [
+      {
+        "title": "Başvuru ve ön inceleme",
+        "description": "Formunuzu alır, tez/makale konusu, kurum ve ihtiyaçlarınıza göre projenizi uzman ekibimizle değerlendiririz."
+      },
+      {
+        "title": "Uzman değerlendirme",
+        "description": "Disiplininize uygun danışman atanır; kapsam, teslim planı ve çalışma modeli netleştirilir."
+      },
+      {
+        "title": "Görüşme ve teklif",
+        "description": "Size en uygun paket, takvim ve fiyat teklifi paylaşılır. En uygun fiyat garantisi bu aşamada devreye girer."
+      },
+      {
+        "title": "Yazım ve düzenleme",
+        "description": "Tez, makale, kitap veya rapor süreciniz planlı şekilde yürütülür; format ve akademik dil standartları uygulanır."
+      },
+      {
+        "title": "AI & intihal kontrolü + teslim",
+        "description": "Teslim öncesi AI ve intihal testlerinden geçirilir, son kontroller tamamlanır ve projeniz size iletilir."
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Hizmetlerimiz",
+    "title": "Tezden rapora, tüm akademik ihtiyaçlarınız tek çatı altında",
+    "description": "Yazım, düzenleme, formatlama ve danışmanlık süreçlerini disiplininize uygun şekilde planlıyoruz.",
+    "items": [
+      {
+        "title": "Tez Yazım Danışmanlığı",
+        "description": "Yüksek lisans ve doktora tezlerinde konu, yapı, metodoloji ve bölüm planlaması desteği."
+      },
+      {
+        "title": "Makale Yazım ve Düzenleme",
+        "description": "SCI/SSCI makalelerde içerik geliştirme, revizyon ve dergi formatına uygun düzenleme."
+      },
+      {
+        "title": "Kitap Yazım Danışmanlığı",
+        "description": "Akademik kitap projelerinde bölüm kurgusu, dil düzenleme ve yayıncı beklentilerine uyum."
+      },
+      {
+        "title": "Rapor Hazırlama",
+        "description": "Kurumsal, proje ve akademik raporlarda yapılandırma, içerik ve sunuma hazır formatlama."
+      },
+      {
+        "title": "Düzenleme ve Formatlama",
+        "description": "Atıf sistemleri, kapak, içindekiler, tablo/şekil düzeni ve kurum formatlarına tam uyum."
+      },
+      {
+        "title": "AI ve İntihal Kontrolü",
+        "description": "Teslim öncesi AI tespiti ve intihal testlerinden geçirilmiş, güvenilir çıktılar."
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Çalışmalarımızdan",
+    "title": "Akademik disiplin, modern sunum",
+    "description": "Tez, makale ve kitap projelerinde kalite odaklı, titiz ve profesyonel çalışma anlayışı."
+  },
+  "about": {
+    "eyebrow": "Hakkımızda",
+    "title": "Akademik yazım sürecinizde yanınızdayız",
+    "content": "Tez, makale, kitap ve rapor projelerinde danışmanlık veren deneyimli bir ekibiz. Süreci sadeleştirir, metninizi akademik standartlara taşır ve teslim öncesi kalite kontrollerini eksiksiz uygularız.",
+    "highlight": "Her proje için net kapsam, teslim planı ve şeffaf fiyatlandırma sunuyoruz.",
+    "features": [
+      {
+        "title": "AI ve intihal güvencesi",
+        "description": "Teslimatlar AI ve intihal testlerinden geçirilerek paylaşılır."
+      },
+      {
+        "title": "Etik ve gizlilik",
+        "description": "Verileriniz gizli tutulur, süreç akademik etik ilkelere uygun yürütülür."
+      },
+      {
+        "title": "En uygun fiyat garantisi",
+        "description": "Kaliteden ödün vermeden bütçenize uygun çözümler sunuyoruz."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Referanslar",
+    "title": "Danışanlarımız ne diyor?",
+    "items": [
+      {
+        "name": "Dr. Ahmet Yılmaz",
+        "position": "Doktora Mezunu",
+        "text": "Tez sürecinde bölüm planı ve metodoloji konusunda net bir yol haritası çıkardılar."
+      },
+      {
+        "name": "Elif Kaya",
+        "position": "Yüksek Lisans Öğrencisi",
+        "text": "Format ve düzenleme sayesinde tezimi zamanında teslim ettim. Süreç çok profesyoneldi."
+      },
+      {
+        "name": "Sarah Johnson",
+        "position": "PhD Candidate",
+        "text": "Makale revizyonunda dergi beklentilerine uygun geri bildirimler aldım ve kabul sürecini tamamladım."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "title": "Projeniz için hızlı teklif alın",
+    "description": "Formu doldurun; tez/makale durumunuza göre size en uygun paketi ve fiyatı iletelim.",
+    "button": "Teklif Talebi Gönder",
+    "sending": "Gönderiliyor...",
+    "email": "info@makaledanismanim.com",
+    "success": "Talebiniz başarıyla alındı. En kısa sürede size dönüş yapacağız.",
+    "error": "Lütfen tüm zorunlu alanları eksiksiz doldurun.",
+    "serverError": "Gönderim sırasında bir sorun oluştu. Lütfen birkaç dakika sonra tekrar deneyin.",
+    "placeholders": {
+      "name": "Adınız Soyadınız",
+      "email": "E-posta adresiniz",
+      "phone": "Telefon numaranız",
+      "institution": "Kurum / Üniversite",
+      "thesisTopic": "Tez veya proje konusu",
+      "message": "İhtiyacınız (tez, makale, kitap, rapor, düzenleme vb.)"
+    }
+  },
+  "footer": {
+    "tagline": "Tez, makale, kitap ve rapor danışmanlığı · AI ve intihal testli teslimat",
+    "rights": "© 2026 Makale Danışmanım. Tüm hakları saklıdır."
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "process": "Process",
+    "about": "About",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "cta": "Get a Quote"
+  },
+  "hero": {
+    "title": "Finish your thesis on time, with confidence",
+    "subtitle": "We provide end-to-end consultancy for thesis, article, book, and report writing and editing. Every delivery passes AI and plagiarism checks.",
+    "button": "Free Initial Assessment",
+    "secondaryButton": "View Services",
+    "highlights": [
+      "Thesis, article, book, report writing and editing",
+      "Deliveries verified with AI and plagiarism tests",
+      "Best price guarantee with transparent quotes"
+    ],
+    "statValue": "100+",
+    "statLabel": "Completed academic projects"
+  },
+  "guarantee": {
+    "short": "Best price guarantee",
+    "statValue": "100+",
+    "statLabel": "Completed academic projects",
+    "title": "Best price guarantee",
+    "description": "If you find a better quote for the same scope and quality, we match it. Premium academic support without breaking your budget.",
+    "cta": "Get a Free Quote"
+  },
+  "roadmap": {
+    "eyebrow": "How it works",
+    "title": "A clear roadmap from request to delivery",
+    "description": "Scroll to see how your project progresses step by step.",
+    "steps": [
+      {
+        "title": "Application and initial review",
+        "description": "We receive your form and review your topic, institution, and needs with our expert team."
+      },
+      {
+        "title": "Expert evaluation",
+        "description": "A discipline-fit consultant is assigned and scope, timeline, and workflow are defined."
+      },
+      {
+        "title": "Consultation and quote",
+        "description": "We share the best package, schedule, and pricing. Our best-price guarantee applies here."
+      },
+      {
+        "title": "Writing and editing",
+        "description": "Your thesis, article, book, or report is executed with academic language and formatting standards."
+      },
+      {
+        "title": "AI & plagiarism checks + delivery",
+        "description": "Before delivery, outputs pass AI and plagiarism checks and final quality control."
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "All your academic needs in one place",
+    "description": "We plan writing, editing, formatting, and consultancy according to your discipline and goals.",
+    "items": [
+      {
+        "title": "Thesis Consultancy",
+        "description": "Support for topic, structure, methodology, and chapter planning in master's and PhD theses."
+      },
+      {
+        "title": "Article Writing & Editing",
+        "description": "Content development, revision, and journal-ready editing for SCI/SSCI submissions."
+      },
+      {
+        "title": "Book Writing Consultancy",
+        "description": "Chapter architecture, language editing, and alignment with publisher expectations."
+      },
+      {
+        "title": "Report Preparation",
+        "description": "Structuring, content refinement, and presentation-ready formatting for academic and project reports."
+      },
+      {
+        "title": "Editing & Formatting",
+        "description": "Citation systems, cover pages, table of contents, and full compliance with institutional formats."
+      },
+      {
+        "title": "AI & Plagiarism Control",
+        "description": "Reliable outputs verified with AI detection and plagiarism checks before delivery."
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "From our work",
+    "title": "Academic discipline, modern presentation",
+    "description": "Quality-focused, meticulous, and professional approach across thesis, article, and book projects."
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "We support your academic writing journey",
+    "content": "We are an experienced team providing consultancy for thesis, article, book, and report projects. We simplify the process, elevate your text to academic standards, and run complete pre-delivery quality checks.",
+    "highlight": "Every project includes clear scope, delivery timeline, and transparent pricing.",
+    "features": [
+      {
+        "title": "AI and plagiarism assurance",
+        "description": "Deliveries are shared after AI and plagiarism verification."
+      },
+      {
+        "title": "Ethics and confidentiality",
+        "description": "Your data remains private and the process follows academic integrity principles."
+      },
+      {
+        "title": "Best price guarantee",
+        "description": "Budget-friendly solutions without compromising quality."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "What our clients say",
+    "items": [
+      {
+        "name": "Dr. Ahmet Yılmaz",
+        "position": "PhD Graduate",
+        "text": "They created a clear roadmap for chapter planning and methodology when I was stuck in my thesis process."
+      },
+      {
+        "name": "Elif Kaya",
+        "position": "Master's Student",
+        "text": "Thanks to formatting and editing support, I submitted my thesis on time. The process was very professional."
+      },
+      {
+        "name": "Sarah Johnson",
+        "position": "PhD Candidate",
+        "text": "I received journal-aligned feedback during article revision and completed the acceptance process."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Get a quick quote for your project",
+    "description": "Fill out the form and we will send the most suitable package and price for your thesis/article needs.",
+    "button": "Send Quote Request",
+    "sending": "Sending...",
+    "email": "info@makaledanismanim.com",
+    "success": "Your request was received successfully. We will get back to you shortly.",
+    "error": "Please complete all required fields.",
+    "serverError": "Something went wrong while sending. Please try again in a few minutes.",
+    "placeholders": {
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "institution": "Institution / University",
+      "thesisTopic": "Thesis or project topic",
+      "message": "Your need (thesis, article, book, report, editing, etc.)"
+    }
+  },
+  "footer": {
+    "tagline": "Thesis, article, book and report consultancy · AI and plagiarism verified delivery",
+    "rights": "© 2026 Makale Danışmanım. All rights reserved."
+  }
+}
